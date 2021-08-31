@@ -129,14 +129,13 @@ class ViewAllSeeds extends React.Component{
                                     <td>{seed.temperature}</td>
                                     <td>{seed.typeOfseeds}</td>
                                     <td>{seed.seedsDescription}</td>
-                                    <td>{seed.seedStock}</td>
-                                    <td>{seed.seedCost}</td>
+                                    <td>{seed.seedsStock}</td>
+                                    <td>{seed.seedsCost}</td>
                                     <td>{seed.seedsPerPacket}</td>
                                     <td>
                                     {/*<button className='btn btn-danger'>Delete</button>|&nbsp;
                                     <button className='btn btn-primary'>Update</button>*/}
-                                    <button onClick={()=>this.deleteSeed(seed.seedid)} className='btn-btn-danger'>Delete</button>|
-                                    <button className='btn-btn-primary'>Update</button>
+                                    <button onClick={()=>this.deleteSeed(seed.seedid)} className='btn btn-danger'>Delete</button><button className='btn btn-primary'>Update</button>
                                    
                                    
                                    

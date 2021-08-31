@@ -121,8 +121,10 @@ render()
                             <td>{planter.planterCapacity}</td>
                             <td>{planter.drinageHoles}</td>
                             <td>{planter.planterColor}</td>
+                            <td>{planter.planterShape}</td>
                             <td>{planter.planterStock}</td>
                             <td>{planter.planterCost}</td>
+                            
                             
                             <td className="text-center">
                             <button className='btn btn-danger'>Delete</button> |&nbsp;
@@ -131,7 +133,7 @@ render()
                         </tr>
                         ))
                             }
-                            )
+                            
                     
                         </tbody>
                     {/* <tbody>

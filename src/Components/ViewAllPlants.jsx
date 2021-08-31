@@ -96,27 +96,7 @@ class ViewAllPlants extends React.Component {
                             ))
                         }
                     </tbody>
-                    {/* <tbody>
-                        <tr>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                            <td></td>
-                            <td className="text-center">
-                            <button className='btn btn-danger'>Delete</button> |&nbsp;
-                                        <button className='btn btn-primary'>Update</button>
-                            </td>
-                        </tr>
-                    </tbody> */}
-                </table>
+                                  </table>
                 </div>   
         </div>
     )

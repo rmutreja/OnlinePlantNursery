@@ -256,13 +256,13 @@ class SignIn extends React.Component {
     return (
 <div style={{ backgroundImage: `url(${bg1})` }}>        
 {/* <!-- Page Content --> */}
-<div class="container">
+<div class="fine">
     <div class="row">
         <div class="col-md-offset-5 col-md-4 text-center">
             <h1 class='text-white'>Unique Login Form</h1>
             <br></br>
             <br></br>
-              <div class="form-login">
+              <div class="form-fine">
                 <h4>Secure Login</h4>
 
                 <form onSubmit={this.handleSubmit} >

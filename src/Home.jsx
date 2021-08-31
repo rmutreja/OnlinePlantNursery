@@ -104,9 +104,9 @@ function Home() {
                             {/* <!-- Content --> */}
                             <div class="service-content">
                               <br></br>
-                              <br></br>
+                              
                                 <h5>&nbsp; Plants Care</h5>
-                                <p>&nbsp; In Aenean purus, pretium sito amet sapien denim moste consectet sedoni urna placerat sodales.service its.</p>
+                                <p>&nbsp; As the seasons change, so too do your plant’s needs. Indoor plants are affected by outdoor changes. In this we’re talking about all things that you can do to keep your plants happy as the temperature rises.</p>
                             </div>
                         </div>
 
@@ -119,9 +119,9 @@ function Home() {
                             {/* <!-- Content --> */}
                             <div class="service-content">
                               <br></br>
-                              <br></br>
+                              
                                 <h5>&nbsp; Pressure Washing</h5>
-                                <p>&nbsp; In Aenean purus, pretium sito amet sapien denim moste consectet sedoni urna placerat sodales.service its.</p>
+                                <p>&nbsp;The plants that surround your home's foundation, however, are directly underneath the power-washing application. Although power-wash chemicals are manufactured to be safe for both animal and plant life, it is possible for them to kill plants.</p>
                             </div>
                         </div>
 
@@ -134,9 +134,10 @@ function Home() {
                             {/* <!-- Content --> */}
                             <div class="service-content">
                               <br></br>
-                              <br></br>
+                              
                                 <h5>&nbsp; Tree Service &amp; Trimming</h5>
-                                <p>&nbsp; In Aenean purus, pretium sito amet sapien denim moste consectet sedoni urna placerat sodales.service its.</p>
+                                <p>&nbsp; Trimming (a tree, shrub, or bush) by cutting away dead or overgrown branches or stems, especially to increase fruitfulness and growth.
+Whether you’re just starting out with caring for plants, or you’re managing an indoor jungle, pruning plants is an activity that everyone can do at one point or another.</p>
                             </div>
                         </div>
 
@@ -145,7 +146,7 @@ function Home() {
 
                 <div class="col-16 col-lg-7">
                     <div class="alazea-video-area bg-overlay mb-100">
-                        <img src={ss} height='500px' alt=""/>
+                        <img src={ss} height='550px' alt=""/>
                         <a href="http://www.youtube.com/watch?v=7HKoqNJtMTQ" class="video-icon">
                             <i class="fa fa-play" aria-hidden="true"></i>
                         </a>
@@ -169,7 +170,7 @@ function Home() {
                                     <br></br>
                         <p>We are leading in the plants service fields.</p>
                     </div>
-                    <p>Quisque orci quam, vulputate non commodo finibus, molestie ac ante. Duis in sceleri quesem. Nulla sit amet varius nunc. Maecenas dui, tempeu ullam corper in.</p>
+                    <p>A one-stop-shop for all gardening related requirements, Online Plant Nursery has more than 500+ products available online for delivery across India saving you numerous messy trips to various nurseries.We deliver all kinds of plants, planters, seeds, to curated plant solutions.</p>
 
                     {/* <!-- Progress Bar Content Area --> */}
                     <div class="alazea-progress-bar mb-50">
@@ -229,7 +230,7 @@ function Home() {
                                     <br></br>
                                     <br></br>
                                     <h5>Quality Products</h5>
-                                    <p>Intiam eu sagittis est, at commodo lacini libero. Praesent dignissim sed odio vel aliquam manta lagorn.</p>
+                                    <p>Perfect quality begins with prevention, but also requires a rigorous program for detection and measurement. Adherence to a quality management system, provides documentation to ensure that quality parameters are met throughout production, and that goods comply with regulatory and customer requirements.</p>
                                 </div>
                             </div>
 
@@ -240,7 +241,7 @@ function Home() {
                                     <br></br>
                                     <br></br>
                                     <h5>Perfect Service</h5>
-                                    <p>Intiam eu sagittis est, at commodo lacini libero. Praesent dignissim sed odio vel aliquam manta lagorn.</p>
+                                    <p>Plant service programs include regular visits from a horticultural technician, typically on a weekly or biweekly basis. Service includes so much more than just watering–in fact, some clients prefer to do their own watering, and bring us in just for the other work that goes into maintaining their greens.  </p>
                                 </div>
                             </div>
 
@@ -251,7 +252,7 @@ function Home() {
                                     <br></br>
                                     <br></br>
                                     <h5>100% Natural</h5>
-                                    <p>Intiam eu sagittis est, at commodo lacini libero. Praesent dignissim sed odio vel aliquam manta lagorn.</p>
+                                    <p>Learn all about organic soil and why you should use it! Not all soil is organic, but yours should be! Get bigger healthier plants today!</p>
                                 </div>
                             </div>
 
@@ -262,7 +263,8 @@ function Home() {
                                     <br></br>
                                     <br></br>
                                     <h5>Environmentally friendly</h5>
-                                    <p>Intiam eu sagittis est, at commodo lacini libero. Praesent dignissim sed odio vel aliquam manta lagorn.</p>
+                                    <p>Being environmentally friendly simply means having a lifestyle that is better for the environment.
+It’s just taking small steps towards looking after the mother earth to make this planet a better place for our communities and generations to come.</p>
                                 </div>
                             </div>
                         </div>

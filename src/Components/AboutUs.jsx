@@ -77,25 +77,26 @@ Most of us being urban dwellers spending their days in apartments with limited a
                     <div class="col-lg-6 mt-4 pt-2">
                         <div class="media align-items-center rounded shadow p-3 bg-primary">
                             <i class="fa fa-play h4 mb-0 text-custom"></i>
-                            <h6 class="ml-3 mb-0"><a href="javascript:void(0)" class="text-light">Responsive</a></h6>
+                            <h6 class="ml-3 mb-0"><a class="text-light">Responsive</a></h6>
+                            {/* javascript:void(0) */}
                         </div>
                     </div>
                     <div class="col-lg-6 mt-4 pt-2">
                         <div class="media align-items-center rounded shadow p-3 bg-success">
                             <i class="fa fa-file-download h4 mb-0 text-custom"></i>
-                            <h6 class="ml-3 mb-0"><a href="javascript:void(0)" class="text-light">Free Download</a></h6>
+                            <h6 class="ml-3 mb-0"><a href="" class="text-light">Free Download</a></h6>
                         </div>
                     </div>
                     <div class="col-lg-6 mt-4 pt-2">
                         <div class="media align-items-center rounded shadow p-3 bg-warning">
                             <i class="fa fa-user h4 mb-0 text-custom"></i>
-                            <h6 class="ml-3 mb-0"><a href="javascript:void(0)" class="text-light">Support</a></h6>
+                            <h6 class="ml-3 mb-0"><a href="" class="text-light">Support</a></h6>
                         </div>
                     </div>
                     <div class="col-lg-6 mt-4 pt-2">
                         <div class="media align-items-center rounded shadow p-3 bg-danger">
                             <i class="fa fa-image h4 mb-0 text-custom"></i>
-                            <h6 class="ml-3 mb-0"><a href="javascript:void(0)" class="text-light">Development</a></h6>
+                            <h6 class="ml-3 mb-0"><a class="text-light">Development</a></h6>
                         </div>
                         
                     </div>

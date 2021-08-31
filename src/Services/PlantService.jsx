@@ -23,10 +23,10 @@ viewAllPlants()
 //     return axios.get(`${this.baseUrl}/viewPlantByCommonName`)
 // }
 
-// ViewPlant()
-// {
-//     return axios.get(`${this.baseUrl}/viewPlantById`)
-// }
+ViewPlant()
+{
+    return axios.get(`${this.baseUrl}/viewPlantById/&{plantId}`)
+}
 
 // ViewAllPlantsOfType()
 // {
